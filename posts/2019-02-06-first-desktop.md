@@ -1,11 +1,11 @@
 ---
-slug: fourier-transform
-title: Fourier Transform like never before
+slug: desktop-build-1
+title: My First Desktop Build
 excerpt: ""
 tags:
   - Admin
-  - ffcc99
-published_date: "2019-02-06 10:59:37 +0000"
+  - ffff66
+published_date: "2019-02-06 10:59:40 +0000"
 layout: post.liquid
 is_draft: false
 ---

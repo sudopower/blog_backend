@@ -4,9 +4,8 @@ title: Hello  World !
 excerpt: "This blog is made using Cobalt Static Site Generator, which is powered by RUST. It is an awesome new language that you should checkout. Want one for yourself ? Let me guide you"
 tags:
   - Admin
-  - fff
-  - school-book
-published_date: "2019-02-06 10:29:26 +0000"
+  - 6600ff
+published_date: "2019-02-06 10:58:02 +0000"
 layout: post.liquid
 is_draft: false
 ---
