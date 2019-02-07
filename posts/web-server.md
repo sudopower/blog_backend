@@ -1,11 +1,11 @@
 ---
-slug: fourier-transform
-title: Fourier Transform like never before
+slug: home-web-server
+title: Fresh Tasty Homemade Web Server !
 excerpt: ""
 tags:
   - Admin
-  - ffcc99
-published_date: "2019-02-06 10:59:37 +0000"
+  - ed1c24
+published_date: "2019-02-07 03:44:32 +0000"
 layout: post.liquid
 is_draft: false
 ---

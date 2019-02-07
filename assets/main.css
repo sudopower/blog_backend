@@ -32,11 +32,28 @@ article{
     font-weight: bold;
     font-size: 4.2rem;
     text-transform: uppercase;
+    /* WebKit (Safari/Chrome) Only */
+  -webkit-text-stroke: 1px rgb(255, 255, 255);
+  
+  /* If we weren't using text-shadow, we'd set a fallback color
+     and use this to set color instead
+    -webkit-text-fill-color: white; */
+  
+  color: white;
+  
+  text-shadow:
+    3px 3px 0 #000,
+    /* Simulated effect for Firefox and Opera
+       and nice enhancement for WebKit */
+   -1px -1px 0 #000,  
+    1px -1px 0 #000,
+   -1px  1px 0 #000,
+    1px  1px 0 #000;
 }
 @media (max-width:526px){
     .article-content{
         width: auto;
-        padding: 2em 0em 2em 0em;
+        padding: 2em 1em 2em 1em;
         margin: 0 auto;
         display: block;
     }

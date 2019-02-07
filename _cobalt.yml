@@ -2,11 +2,13 @@ source: "."
 ignore: 
   - "content/"
 
-posts:
-  rss: rss.xml
+
 site:
   title: Sudopower Blog
   description: The Joy of Learning !
   base_url: https://sudopower.com
-
+posts:
+  rss: rss.xml
+  publish_date_in_filename: false
+  default: {}
 
